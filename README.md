@@ -1,2 +1,2 @@
-# AppliedDeepLearning
+# Applied Deep Learning
 This repository consists a set of Jupyter Notebooks with a different Deep Learning methods applied.  Each notebook gives walkthrough from scratch to the end results visualization hierarchically. The Deep Learning methods include  Multiperceptron layers, CNN, GAN, Autoencoders, Sequential and Non-Sequential deep learning models. The fields applied includes Image Classification, Time Series Prediction, Recommendation Systems , Anomaly Detection and Data Analysis.
